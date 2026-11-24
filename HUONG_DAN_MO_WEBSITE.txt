@@ -1,0 +1,8 @@
+NGÔ QUYỀN EDUSPACE
+Người thực hiện: Trần Thị Quỳnh Trâm và Hồ Thị Cẩm Diêu
+
+1. Giải nén toàn bộ ZIP, giữ nguyên cấu trúc thư mục.
+2. Mở index.html ở thư mục chính bằng Google Chrome hoặc Microsoft Edge.
+3. Chọn Tin học/Tiếng Anh và lớp 3,4,5 hoặc Góc thiệp.
+4. Nhạc nền được sáng tác riêng, bấm “Bật nhạc” và chỉnh âm lượng. Trình duyệt không cho nhạc tự phát trước khi người dùng bấm.
+5. Nếu đăng website lên Cloudflare Pages, tải toàn bộ nội dung thư mục (gồm index.html, assets và tất cả thư mục môn học).

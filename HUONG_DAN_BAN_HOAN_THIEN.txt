@@ -1,0 +1,32 @@
+NGÔ QUYỀN EDUSPACE – PHIÊN BẢN CHỈNH SỬA
+
+CÁCH MỞ:
+1. Giải nén toàn bộ file ZIP (không mở index.html khi vẫn còn trong ZIP).
+2. Mở index.html bằng Chrome hoặc Edge.
+3. Trên điện thoại, tải toàn bộ thư mục lên GitHub Pages hoặc một máy chủ web; không chỉ tải riêng index.html.
+
+NỘI DUNG ĐÃ SỬA:
+- Nút 📱 Xem giao diện điện thoại có trên giao diện máy tính của mỗi trang (xem thử trong khung 390 px, bấm Máy tính để về giao diện máy tính).
+- Thanh điều hướng điện thoại dùng chung cho trang chủ, 6 khu môn học, từng trang bài học và xưởng thiệp.
+- Menu chọn Tin học / Tiếng Anh lớp 3, 4, 5; chuyển về trang chủ, về danh sách bài, tới bài trước/sau.
+- Sửa lọc môn học: có nút bỏ lọc; 'Tất cả' hiển thị trở lại toàn bộ các môn.
+- Sửa nhãn 'Toàn màn hình' thành 'Mở trang riêng', đúng chức năng mở tab mới.
+- Nhiệm vụ mỗi ngày được cố định theo ngày trên thiết bị, có thể tự đánh dấu hoàn thành.
+- Nhật ký có tiến độ thử thách/thực hành từ hồ sơ đang chọn ở mỗi môn (nếu đã lưu), vẫn tách riêng thống kê lượt mở.
+- Điều chỉnh thanh xem môn trên màn hình nhỏ.
+- Giữ nguyên dữ liệu bài học, trò chơi, hình ảnh, âm thanh của các môn, thư viện thiệp.
+
+LƯU Ý:
+- Tiến độ học trên localStorage của chính trình duyệt/thiết bị, không đồng bộ tài khoản hoặc giữa các thiết bị.
+- Nhật ký tổng hợp từng hồ sơ đang chọn tại mỗi môn, không tự nhận diện cùng một học sinh trên tất cả các môn.
+- Nhiệm vụ ngày được học sinh tự đánh dấu, không tự kiểm chứng hoàn thành.
+- Với file://, một số trình duyệt giới hạn quyền truy cập localStorage; nên thử trên GitHub Pages hoặc localhost nếu tiến độ chưa xuất hiện.
+
+Website không thêm chatbot AI hoặc yêu cầu kết nối API bên ngoài.
+
+GIAO DIỆN ĐIỆN THOẠI:
+- Trên điện thoại thật, giao diện tự co giãn; thanh điều hướng 5 nút nằm ở cuối màn hình.
+- Trên máy tính, bấm nút “📱 Xem giao diện điện thoại” góc dưới bên phải để xem thử; bấm “🖥 Máy tính” để trở về.
+- Nếu muốn học sinh truy cập bằng điện thoại của họ, cần đưa toàn bộ website lên dịch vụ hosting tĩnh (ví dụ GitHub Pages) để tạo URL công khai; nút xem thử không tự xuất bản website.
+
+Nếu trình duyệt chặn khung xem thử khi mở từ file://, hãy chạy website qua máy chủ web nội bộ hoặc GitHub Pages.

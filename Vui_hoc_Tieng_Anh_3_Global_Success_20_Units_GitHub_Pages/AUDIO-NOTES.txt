@@ -1,0 +1,1 @@
+English audio: synthetic voice, generated locally using Flite (CMU SLT) through FFmpeg. Original practice phrases for this app; not official Global Success textbook audio. MP3 contains indexed clips, no microphone or remote speech API. Flite copyright information is included in FLITE-LICENSE.txt.

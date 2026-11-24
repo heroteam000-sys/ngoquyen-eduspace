@@ -1,0 +1,7 @@
+NGÔ QUYỀN EDUSPACE - KIỂM TRA LIÊN KẾT TĨNH
+Tổng số HTML: 131
+Đường dẫn HTML kiểm tra: 1101
+Tài nguyên ứng dụng kiểm tra: 1099
+Lỗi phát hiện: 0
+
+Lưu ý: kiểm tra tĩnh không thay cho chạy thử từng thao tác trên trình duyệt.
